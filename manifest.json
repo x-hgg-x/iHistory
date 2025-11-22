@@ -6,8 +6,8 @@
    "icons": {
       "128": "css/icon.png"
    },
-   "manifest_version": 2,
-   "name": "eHistory",
-   "permissions": [ "history", "chrome://favicon/" ],
+   "manifest_version": 3,
+   "name": "iHistory",
+   "permissions": [ "history", "favicon" ],
    "version": "1.14"
 }
